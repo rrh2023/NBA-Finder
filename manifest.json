@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "NBA Info",
+    "description": "Retrieves information on current NBA players",
+    "version": "1.0.0",
+    "icons": { "128": "nbalogo128.png"},
+    "browser_action": {
+        "default_icon": "nbalogo128.png",
+        "default_popup": "index.html"
+    },
+    
+    "permissions": ["activeTab"]
+}
