@@ -11,7 +11,12 @@ Some of Information shared includes:
 * Height & Weight
 
 ## Usage
-People can simply type in the name of their desired player and the chrome extension will display the data. No action for submitting needing. 
+People can simply type in the name of their desired player and the chrome extension will display the data. No action for submitting needed. 
+
+## Technologies
+* HTML
+* CSS
+* JavaScript
 
 ## Acknowledgement
 
