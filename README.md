@@ -13,7 +13,7 @@ Some of Information shared includes:
 ## Usage
 People can simply type in the name of their desired player and the chrome extension will display the data. No action for submitting needed. 
 
-## Technologies
+## Technologies Used
 * HTML
 * CSS
 * JavaScript
